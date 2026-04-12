@@ -1,0 +1,47 @@
+body
+{
+    background-color: beige;
+    background-image: url('bs01.jpg');
+}
+
+h1
+
+{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Georgia;
+    font-size: 44px;
+    color: navy;
+    text-align: center;
+    background-color: rgb(221, 215, 226);
+    width: 500px;
+    padding: 20px;
+
+}
+h1
+
+{
+
+    font-family: Georgia;
+    font-size: 24px;
+    color: navy;
+    text-align: center;
+    padding: 20px;
+    
+
+}
+
+#bs-gomb
+
+{
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-primary
+{
+color: red;
+}

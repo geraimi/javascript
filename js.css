@@ -1,0 +1,46 @@
+body
+
+{
+    background-color: rgb(73, 72, 72);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white
+}
+
+h1
+{
+    font-family: Georgia;
+    font-size: 44px;
+
+}
+
+h2
+{
+    font-family: Georgia;
+    font-size: 20px;
+    
+}
+
+h3
+{
+    font-family: Georgia;
+    font-size: 14px;
+    
+}
+
+a:link
+{
+    color: lightgray
+}
+a:visited
+{
+    color: darkgrey;
+}
+a:hover
+
+{
+color: black;
+}
+a:active
+{
+    color: darkg#eaeaea;
+}
